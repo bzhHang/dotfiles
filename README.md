@@ -62,12 +62,12 @@ I'm including some screenshots on this repo and a list of dependencies in case y
 ![Application launcher](https://github.com/da-edra/dotfiles/blob/master/.screenshots/rofi-drun.png)
 ![Window switcher](https://github.com/da-edra/dotfiles/blob/master/.screenshots/rofi-window.png)
 ---
-### [Spacemacs](https://github.com/syl20bnr/spacemacs) rules! 
-![Spacemacs](https://github.com/da-edra/dotfiles/blob/master/.screenshots/spacemacs.png)
+### [Spacemacs](https://github.com/syl20bnr/spacemacs) rules!
 ###### The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!
-------
+![Spacemacs](https://github.com/da-edra/dotfiles/blob/master/.screenshots/spacemacs.png)
+---
 ### Having fun with the Mandelbrot Set
-![Terminals](https://github.com/da-edra/dotfiles/blob/master/.screenshots/mandelbrot.png)
 ###### Drawing CLI fractals with the Shell!
+![Terminals](https://github.com/da-edra/dotfiles/blob/master/.screenshots/mandelbrot.png)
 ---
 # Made with :sparkling_heart: by yours truly.
