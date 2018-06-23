@@ -65,7 +65,7 @@ I'm including some screenshots on this repo and a list of dependencies in case y
 ### [Spacemacs](https://github.com/syl20bnr/spacemacs) rules! 
 ![Spacemacs](https://github.com/da-edra/dotfiles/blob/master/.screenshots/spacemacs.png)
 ###### The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!
----
+------
 ### Having fun with the Mandelbrot Set
 ![Terminals](https://github.com/da-edra/dotfiles/blob/master/.screenshots/mandelbrot.png)
 ###### Drawing CLI fractals with the Shell!
