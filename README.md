@@ -35,11 +35,11 @@ I'm including some screenshots on this repo and a list of dependencies in case y
 
 > **For the Shell:**
 
-> [Arch Linux](https://www.archlinux.org/) (Just kidding any distro is fine, but Arch is the best!).
-> [Zsh](https://github.com/zsh-users/zsh) the most powerful shell out there!
-> [Powerlevel9k](https://github.com/bhilburn/powerlevel9k) the most awesome Powerline theme for ZSH around! (dependency for the Zsh theme I made)
-> acpi (To monitor the battery status).
-> [neofetch](https://github.com/dylanaraps/neofetch) a fast, highly customizable system info script.
+> - [Arch Linux](https://www.archlinux.org/) (Just kidding any distro is fine, but Arch is the best!).
+> - [Zsh](https://github.com/zsh-users/zsh) the most powerful shell out there!
+> - [Powerlevel9k](https://github.com/bhilburn/powerlevel9k) the most awesome Powerline theme for ZSH around! (dependency for the Zsh theme I made)
+> - acpi (To monitor the battery status).
+> - [neofetch](https://github.com/dylanaraps/neofetch) a fast, highly customizable system info script.
 > [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) patched fonts (I use Source Code Pro).
 
 ---
@@ -47,13 +47,21 @@ I'm including some screenshots on this repo and a list of dependencies in case y
 > **For the window manager:**
 
 > [i3-gaps](https://github.com/Airblader/i3) i3wm with more features.
+
 > [i3blocks](https://github.com/vivien/i3blocks) a replacement for the default i3status with more features.
+
 > [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) patched fonts (I use Source Code Pro).
+
 > [Rofi](https://github.com/DaveDavenport/rofi) a window switcher, application launcher and dmenu replacement.
+
 > [Compton](https://github.com/chjj/compton) a compositor for X, to get window transparency and avoid tearing and vsync issues.
+
 > [Playerctl](https://github.com/acrisci/playerctl) to display current song on i3blocks.
+
 > [Feh](https://github.com/derf/feh) to set random wallpapers that change every minute with a systemd timer.
+
 > xfce4-power-manager (Simple way to monitor battery status)
+
 > xfce4-notifyd (Helpful to get GTK notifications like current song or battery status)
 
 ### I ❤ i3 tiling capabilities:
@@ -74,7 +82,7 @@ I'm including some screenshots on this repo and a list of dependencies in case y
 
 ### Having fun with the Mandelbrot Set
 ##### Mathematics is astonishingly beautiful but it can be even more beautiful when you're drawing CLI fractals with your Shell!
-![Terminals](https://github.com/da-edra/dotfiles/blob/master/.screenshots/mandelbrot.png)
+![Terminals](https://githuBib.com/da-edra/dotfiles/blob/master/.screenshots/mandelbrot.png)
 
 # Made with ❤ by yours truly
 
