@@ -31,6 +31,7 @@
 # Images
 !.wallpapers/*
 !.happy.png
+!.screenshots/*
 !.zsh-features.png
 !.bragging.jpg
 !.desktop.png
